@@ -3,7 +3,7 @@ layout: default
 eleventyExcludeFromCollections: true
 ---
 
-This is the home page 
+Welcome to the AI Literacy Interest Group! 
 
 And this is a [link](https://www.upenn.edu)
 

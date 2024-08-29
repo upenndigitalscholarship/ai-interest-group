@@ -3,4 +3,12 @@ layout: default
 eleventyExcludeFromCollections: true
 ---
 
-I am the about page! ACtually I am not the about page. Yay!
+## People
+
+### Jajwalya Karajgikar 
+
+insert photo of Jaj here 
+
+insert bio of jaj here
+
+
