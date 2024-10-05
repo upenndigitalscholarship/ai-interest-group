@@ -3,8 +3,10 @@ layout: default
 eleventyExcludeFromCollections: true
 ---
 
-Welcome to the AI Literacy Interest Group! 
+## Welcome to the AI Literacy Interest Group! 
 
-And this is a [link](https://www.upenn.edu)
+[Browse all of our events](https://www.library.upenn.edu/events/ai-literacy-interest-group)
 
-<a href="https://www.upenn.edu">I am a link</a>
+[Register for the upcoming South Asia Studies Digital Humanities Workshop now!](https://www.library.upenn.edu/events/south-asia-studies-dh-workshop)
+
+

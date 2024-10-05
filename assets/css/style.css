@@ -1,7 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Major+Mono+Display&family=Ubuntu:ital@1&display=swap');
 
 h1,h2,h3,h4 {
-    font-family: 'Major Mono Display', monospace;
+    font-family: 'Ubuntu', Sans-serif;
+}
+
+h2 {
+    margin-top: 10%;
 }
 
 p {
@@ -11,3 +15,37 @@ p {
 code {
     color:blueviolet
 }
+
+.navbar {
+    height: 7%;
+    width: 100%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #e7e2ab;
+    padding-top: 20px;
+    overflow: hidden;s
+}
+
+.nav-item {
+  padding: 3px 3px 3px 3px;
+  text-decoration: none !important; 
+  color: black;
+  font-size: 16px;
+  display: block;
+}
+
+.active nav-item:hover {
+    color: #d4ce90;
+}
+
+body {
+    background-color:#e7e2ab;
+  }
+
+  .container {
+    min-height: var(--wrapper-height);
+    place-items: center;
+    margin: 10;
+  }
